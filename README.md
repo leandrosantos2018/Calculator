@@ -4,7 +4,7 @@ Este é um projeto de uma calculadora simples implementada em C#. A calculadora 
 
 ## Requisitos do Sistema
 
-- .NET Core 3.1 ou superior
+- .NET Core 8 ou superior
 
 ## Como Executar
 
